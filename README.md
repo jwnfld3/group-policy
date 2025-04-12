@@ -70,9 +70,6 @@ This keeps Active Directory (AD) organized and enables delegation or GPO targeti
 Security groups simplify access control across domain resources.
 ![image](https://github.com/user-attachments/assets/0d8ffe41-36c1-4a5e-95c1-4a6878be928f)
 ![image](https://github.com/user-attachments/assets/39c33d80-9af6-40b4-b550-e45d48ee9917)
-![image](https://github.com/user-attachments/assets/e1d2ae72-0c6a-4e01-9592-819a6edb688e)
-![image](https://github.com/user-attachments/assets/20a07485-f18a-46cb-9117-732c09fccfa2)
-![image](https://github.com/user-attachments/assets/4c6bce4f-3566-43eb-b1a8-687592add554)
 
 ---
 
