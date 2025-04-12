@@ -131,7 +131,7 @@ This ensures that only appropriate users can access departmental folders.
 
 ---
 
-### Configure Network Sharing for the Folder with the Appropriate User or Group
+### 5. Configure Network Sharing for the Folder with the Appropriate User or Group
 
 > **Definition**: Network sharing allows folders on a server to be accessible over the network by other users or devices. When a folder is shared, it becomes visible and accessible from remote systems, provided the necessary permissions are granted.
 
@@ -159,8 +159,7 @@ This ensures that only appropriate users can access departmental folders.
 
 ---
 
-
-### 5. Test Group-Based Access
+### 6. Test Group-Based Access
 
 > **Definition**: Verifying access ensures the correct permissions are applied through group membership.
 
@@ -175,37 +174,7 @@ This confirms folder permissions are enforced by group.
 
 ---
 
-### 6. (Optional) Map Network Drives via Group Policy
-
-> **Definition**: *Group Policy Preferences (GPP)* can automatically map drives based on user group membership.
-
-1. Open **Group Policy Management Console (GPMC)**  
-2. Create Group Policy Object (GPO): `MapDeptDrives`  
-3. Go to:  
-   `User Configuration > Preferences > Windows Settings > Drive Maps`  
-4. Add mapped drive:
-   - **Location**: `\\SERVERNAME\DeptShares\IT`
-   - **Label**: `IT Share`
-   - **Action**: Update  
-5. Under **Common > Item-level targeting**, add:
-   - **Security Group = IT_Group**
-
-This maps network drives dynamically based on group membership.
-
----
-
-### 7. (Optional) Clean Up
-
-> **Definition**: Cleaning up removes temporary objects and ensures a tidy environment.
-
-- Delete test users, groups, or Group Policy Objects (GPOs)  
-- Remove test folders or permissions  
-
-This maintains a clean and secure Active Directory (AD) environment.
-
----
-
 ## Conclusion
 
-This guide demonstrated how to manage group-based access control in Active Directory (AD) using Windows Server 2022. By organizing users into security groups and assigning New Technology File System (NTFS) permissions accordingly, administrators at **JWNLD** can efficiently manage access to departmental resources while maintaining a secure and scalable environment. This approach improves consistency, simplifies onboarding, and aligns with enterprise security best practices.
+This guide demonstrated how to manage group-based access control in Active Directory (AD) using Windows Server 2022. By organizing users into security groups accordingly, administrators at **JWNLD** can efficiently manage access to departmental resources while maintaining a secure and scalable environment. This approach improves consistency, simplifies onboarding, and aligns with enterprise security best practices.
 
