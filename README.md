@@ -151,6 +151,8 @@ This ensures that only appropriate users can access departmental folders.
    - Set the correct permission level (typically **Read** or **Full Control**)
 ![image](https://github.com/user-attachments/assets/bdcca81b-c2ea-4db3-a556-db177067b641)
 ![image](https://github.com/user-attachments/assets/160d16eb-287a-4452-9423-9f0a1dff9634)
+![image](https://github.com/user-attachments/assets/7412f363-c41d-4a0a-81d1-dd898fe218fe)
+![image](https://github.com/user-attachments/assets/a1ea7a79-0ce5-4d95-8841-11840e3634f4)
 
 
 9. Click **OK** to close all windows
