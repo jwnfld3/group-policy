@@ -1,4 +1,4 @@
-# Active Directory Group Management – Windows Server 2022
+# Active Directory Group Management on Windows Server 2022
 
 ## Summary
 
