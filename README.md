@@ -138,13 +138,21 @@ This ensures that only appropriate users can access departmental folders.
 1. Log in to the server.
 2. Navigate to the folder you want to share (e.g., `D:\DeptShares\IT`)
 3. Right-click the folder and select **Properties**
+![image](https://github.com/user-attachments/assets/c726f229-5375-43a8-b922-bb115de1f0aa)
+
 4. Go to the **Sharing** tab
 5. Click **Advanced Sharing**
+![image](https://github.com/user-attachments/assets/b7bb3f63-714a-410b-870c-4c2ca72dbbac)
+
 6. Check the box for **"Share this folder"**
 7. Set the **Share Name** (e.g., `IT`)
 8. Click **Permissions** and:
-   - Add `JWNLD\IT_Admins` or the appropriate group/user
+   - Add `IT_Group`
    - Set the correct permission level (typically **Read** or **Full Control**)
+![image](https://github.com/user-attachments/assets/bdcca81b-c2ea-4db3-a556-db177067b641)
+![image](https://github.com/user-attachments/assets/160d16eb-287a-4452-9423-9f0a1dff9634)
+
+
 9. Click **OK** to close all windows
 
 ---
