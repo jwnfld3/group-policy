@@ -87,6 +87,11 @@ Security groups simplify access control across domain resources.
 
 This supports role-based access control (RBAC).
 
+For the purpose of this guide a password change will not be enforced since this is not a live enviornment. If this was a live enviornment it is strongly recommended to force the user to change their password. Forcing a password change at first login closes a critical security gap by ensuring users take control of their credentials and that temporary/shared passwords aren’t used longer than necessary.
+![image](https://github.com/user-attachments/assets/1941b051-2c8c-4d42-b844-eac567fe1537)
+![image](https://github.com/user-attachments/assets/edc59540-f56c-49ae-b95a-a39d5ceebaf3)
+![image](https://github.com/user-attachments/assets/c426e35a-0c7f-46ff-861c-1bb4886af84b)
+
 ---
 
 ### 4. Create Shared Folders and Set NTFS Permissions
