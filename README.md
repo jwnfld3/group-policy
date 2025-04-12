@@ -170,6 +170,8 @@ This ensures that only appropriate users can access departmental folders.
 4. Access `\\SERVERNAME\IT` will be visible because `it.admin` was granted access.
 
 This confirms folder permissions are enforced by group.
+![image](https://github.com/user-attachments/assets/8248e74d-3bb8-42bc-af4e-373a052dbc7f)
+![image](https://github.com/user-attachments/assets/c498b2f6-a53f-4ffb-8073-3fed15fa9f72)
 
 ---
 
