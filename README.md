@@ -164,9 +164,10 @@ This ensures that only appropriate users can access departmental folders.
 
 > **Definition**: Verifying access ensures the correct permissions are applied through group membership.
 
-1. Log in as `it.admin`  
-2. Access `\\SERVERNAME\DeptShares\IT` — should succeed  
-3. Access `\\SERVERNAME\DeptShares\Finance` — should be denied
+1. Log in as `it.admin`
+2. Go to `File Explorer`
+3. Access `\\SERVERNAME\DeptShares\IT` — should succeed  
+4. Access `\\SERVERNAME\DeptShares\Finance` — should be denied
 
 This confirms folder permissions are enforced by group.
 
