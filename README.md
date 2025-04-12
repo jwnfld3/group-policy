@@ -93,6 +93,7 @@ Security groups simplify access control across domain resources.
 ![image](https://github.com/user-attachments/assets/c3845f7c-2115-4bd3-ad59-96efea139ede)
 ![image](https://github.com/user-attachments/assets/7fad9769-1caa-447b-9e0c-b36519ed1da9)
 ![image](https://github.com/user-attachments/assets/b5731a69-2941-4b8f-bbca-7fa76e5d3557)
+![image](https://github.com/user-attachments/assets/d86ee4aa-56d7-444b-89c7-7c71301478e9)
 
 
 
@@ -106,11 +107,14 @@ For the purpose of this guide a password change will not be enforced since this 
 
 > **Definition**: *New Technology File System (NTFS) Permissions* control file and folder access on Windows volumes.
 
-1. Create folder: `D:\DeptShares`  
+1. Create folder: `C:\DeptShares`  
 2. Inside, create:
    - `IT`
    - `HR`
    - `Finance`  
+![image](https://github.com/user-attachments/assets/65b6cfe4-1504-4278-bf70-645df8352620)
+![image](https://github.com/user-attachments/assets/cd8a341f-547b-458a-b8ae-411db072165d)
+
 3. Right-click each folder > **Properties > Security > Edit > Add**  
 4. Assign Modify permissions to corresponding groups
 
