@@ -127,6 +127,7 @@ This ensures that only appropriate users can access departmental folders.
 ![image](https://github.com/user-attachments/assets/0f087388-7958-4942-87e1-3054103a9f39)
 ![image](https://github.com/user-attachments/assets/334e5b4b-3a80-4b44-bddc-95db99e27f30)
 ![image](https://github.com/user-attachments/assets/51e137b2-007c-4af7-9f5a-d450d6ae5174)
+![image](https://github.com/user-attachments/assets/2ae91fd1-3734-4e4f-b8d6-26ffc41b2928)
 
 ---
 
