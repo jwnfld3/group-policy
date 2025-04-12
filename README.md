@@ -166,8 +166,8 @@ This ensures that only appropriate users can access departmental folders.
 
 1. Log in as `it.admin`
 2. Go to `File Explorer`
-3. Access `\\SERVERNAME\DeptShares\IT` — should succeed  
-4. Access `\\SERVERNAME\DeptShares\Finance` — should be denied
+3. Access The on-prem server by clicking on `Network`
+4. Access `\\SERVERNAME\IT` will be visible because `it.admin` was granted access.
 
 This confirms folder permissions are enforced by group.
 
