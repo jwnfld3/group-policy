@@ -42,13 +42,16 @@ The Information Technology (IT) team at **JWNLD** is rolling out access control 
 
 2. Navigate to `jwnld.com`  
 3. Right-click the domain > **New > Organizational Unit**  
+![image](https://github.com/user-attachments/assets/3992e280-91f7-4353-975e-b61aef7e8183)
+
 4. Create:
    - `Groups`
-   - `Users`
+   - `Employees`
    - `Departments` (optional)
 
 This keeps Active Directory (AD) organized and enables delegation or GPO targeting.
 
+![image](https://github.com/user-attachments/assets/2dc990ce-db4f-48e5-8a7f-c91de8b394a8)
 ---
 
 ### 2. Create Security Groups
@@ -65,6 +68,10 @@ This keeps Active Directory (AD) organized and enables delegation or GPO targeti
    - **Type**: Security  
 
 Security groups simplify access control across domain resources.
+![image](https://github.com/user-attachments/assets/0d8ffe41-36c1-4a5e-95c1-4a6878be928f)
+![image](https://github.com/user-attachments/assets/39c33d80-9af6-40b4-b550-e45d48ee9917)
+![image](https://github.com/user-attachments/assets/e1d2ae72-0c6a-4e01-9592-819a6edb688e)
+![image](https://github.com/user-attachments/assets/20a07485-f18a-46cb-9117-732c09fccfa2)
 
 ---
 
@@ -72,7 +79,7 @@ Security groups simplify access control across domain resources.
 
 > **Definition**: Users inherit access permissions from their group membership, streamlining access control.
 
-1. In `Users` Organizational Unit (OU) > **New > User**:
+1. In `Employees` Organizational Unit (OU) > **New > User**:
    - `it.admin`
    - `hr.jane`
    - `finance.john`  
