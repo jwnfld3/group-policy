@@ -88,6 +88,12 @@ Security groups simplify access control across domain resources.
 
 2. Add each user to the matching group (`IT_Group`, etc.)
 
+![image](https://github.com/user-attachments/assets/d74a66e2-e06e-4616-ac87-7f170cebdade)
+![image](https://github.com/user-attachments/assets/709994a9-5205-4d8b-8b9d-10cf2357cf0d)
+![image](https://github.com/user-attachments/assets/c3845f7c-2115-4bd3-ad59-96efea139ede)
+![image](https://github.com/user-attachments/assets/7fad9769-1caa-447b-9e0c-b36519ed1da9)
+![image](https://github.com/user-attachments/assets/b5731a69-2941-4b8f-bbca-7fa76e5d3557)
+
 
 
 This supports role-based access control (RBAC).
