@@ -131,6 +131,25 @@ This ensures that only appropriate users can access departmental folders.
 
 ---
 
+### Configure Network Sharing for the Folder with the Appropriate User or Group
+
+> **Definition**: Network sharing allows folders on a server to be accessible over the network by other users or devices. When a folder is shared, it becomes visible and accessible from remote systems, provided the necessary permissions are granted.
+
+1. Log in to the server.
+2. Navigate to the folder you want to share (e.g., `D:\DeptShares\IT`)
+3. Right-click the folder and select **Properties**
+4. Go to the **Sharing** tab
+5. Click **Advanced Sharing**
+6. Check the box for **"Share this folder"**
+7. Set the **Share Name** (e.g., `IT`)
+8. Click **Permissions** and:
+   - Add `JWNLD\IT_Admins` or the appropriate group/user
+   - Set the correct permission level (typically **Read** or **Full Control**)
+9. Click **OK** to close all windows
+
+---
+
+
 ### 5. Test Group-Based Access
 
 > **Definition**: Verifying access ensures the correct permissions are applied through group membership.
